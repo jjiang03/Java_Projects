@@ -7,6 +7,10 @@ Encryption
 
 The Encryption project gives users the option to encrypt or decrypt words with single or ten digit cyphers, also known as a Caesar Cypher. The code contains combinations of for-loops, if statements, and more in order to encrypt or decrypt messages selected by the user.
 
+Guessing
+
+The Guessing project lets the user set a range of minimum number and a maximum number. The program will then generate a random number in between the min and max number. Then, the program will ask the user to guess a number betweent he min and max, and will let the user know if the guess is greater or lesser than the randomly generated number. This program focuses on gathering user input using scanners.
+
 Login Data Project (both)
 
 The Login Data Project is a program that collects the user’s email address, time spent logged in each session, and then compares it to other user times, printing the user’s name who has the most time logged in. The code focuses on using ArrayLists to store and compare data and implementing complex for loops and if statements. 
