@@ -11,6 +11,10 @@ Login Data Project (both)
 
 The Login Data Project is a program that collects the user’s email address, time spent logged in each session, and then compares it to other user times, printing the user’s name who has the most time logged in. The code focuses on using ArrayLists to store and compare data and implementing complex for loops and if statements. 
 
+Quadratic
+
+The Quadratic project  takes in a quadratic equation from the user and then returns the characteristics of the quadratic (x-intercept, y-intercept, concavity, vertex, and axis of symmetry. The program contains a network of methods that work together to produce the result. 
+
 Text Excel
 
 The TextExcel project is a program that can hold and modify data, similar to Google Sheets or Microsoft Excel. The code works to create a sheet with individual cells in which the user can input data into. The program is an object-oriented program that contains many different parts of code coming together. It contains coding techniques like inheritance, for loops, if statements, and other object-oriented programming methods
